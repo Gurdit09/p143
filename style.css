@@ -1,0 +1,42 @@
+
+
+.heading
+{
+    width: 100%;
+    height: 70px;
+}
+
+.heading h3
+{
+    display:inline;
+    float:left;
+    
+}
+
+#instructions
+{
+    float : right;
+    margin-top: 12px;
+    border-color: white;
+    background-color: lightskyblue;
+}
+
+#footer
+{
+    background-color: #f5f5f5;
+    line-height: 2;
+    margin-top: 750px;
+    position: sticky;
+    
+    
+}
+
+.modal-dialog
+{
+    width: 90%;
+}
+
+#game_console
+{
+    margin-top: 300px;
+}
